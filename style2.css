@@ -1,0 +1,12 @@
+body {
+	background-image: url(purpleflow.jpg);
+	background-size:cover;
+	background-attachment: scroll;
+	
+}
+h1 {
+	font-family: Showcard Gothic;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
